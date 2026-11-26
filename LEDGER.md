@@ -115,3 +115,11 @@ parent handles that.
   changed no output bytes; the chosen entry text is byte-identical to before.
 - Gate check on output: 98 chars (1–200 ✓), 1 line, no trailing newline,
   non-whitespace ✓, UTF-8 round trip ✓, 98 bytes
+
+## Submission
+
+- Submission: 01a215ea-9caa-7452-9d10-13bdaaf898d5
+- Commit: 467b73b04a12f6622e55cd5b32eb37b3cd255601
+- Repo: https://github.com/lukmannurh/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16
+- Claim code: AF-WTFE1-TVJ9E-W9S80-9Y3JB
+- Submitted: 2026-11-26T03:34:04.794Z (parent pipeline)
